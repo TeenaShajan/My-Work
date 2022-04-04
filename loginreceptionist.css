@@ -1,0 +1,33 @@
+@CHARSET "ISO-8859-1";
+
+body{
+	background-color: grey;
+}
+
+.form-item>img{
+	width:25%;
+	margin-left:25%;
+	margin-right:25%;
+}
+
+.form-item>input{
+	width:50%;
+	height:40px;
+}
+
+form>.form-item{
+	margin-bottom:20px;
+}
+
+form h2{
+	text-align: centre;
+}
+
+.form-item>.login-button{
+	width:100%;
+	padding: :10px;
+	background-color: #009900;
+	color: white;
+	border-width: 0px;
+	border-radius:5px
+}
